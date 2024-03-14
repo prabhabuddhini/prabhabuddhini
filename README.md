@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prabha Buddhini</h1>
 <h3 align="center">Software Enginering Undergraduate at NSBM Green University</h3>
-<img align="right" alt="coding" width "10" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif(https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width "10" src="[://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif(https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)">
 
 - 🌱 I’m currently learning **C#**
 
